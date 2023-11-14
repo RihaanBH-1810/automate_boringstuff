@@ -132,7 +132,8 @@ Answer:They contain references to the list.
 Question 17:
 What is the difference between copy.copy() and copy.deepcopy()?
 
-Answer: copy.copy() is used to make a copy of mutable value like list or dictionary, we use copy.deepcopy() when the list we want to copy contains lists in it as elements.
+Answer: copy.copy() is used to make a copy of mutable value like list or dictionary,
+we use copy.deepcopy() when the list we want to copy contains lists in it as elements.
 ```
 
 
