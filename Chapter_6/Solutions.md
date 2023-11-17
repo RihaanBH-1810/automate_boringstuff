@@ -82,7 +82,7 @@ Question 9:
 What string methods can you use to right-justify, left-justify, and center
 a string?
 
-Answer:rjust(), ljust(), center()
+Answer:rjust(), ljust(), center().
 
 ```
 ```
