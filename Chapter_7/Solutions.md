@@ -212,5 +212,5 @@ Pattern Matching with Regular Expressions   185but not the following:
 • 'ALICE THROWS FOOTBALLS.'
 • 'Carol eats 7 cats.'
 
-Answer: re.compile(r'(Alice|Bob|Carol)\s(eats|pets|throws)\s(apples|cats|basballs)\.', re.I)
+Answer: re.compile(r'(Alice|Bob|Carol)\s(eats|pets|throws)\s(apples|cats|basballs)\.', re.I) .
 ```
