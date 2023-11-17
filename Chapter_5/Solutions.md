@@ -58,5 +58,5 @@ Question 8:
 What module and function can be used to “pretty print”
 dictionary values?
 
-Answer:pprint() and pformat()
+Answer:pprint() and pformat().
 ```
