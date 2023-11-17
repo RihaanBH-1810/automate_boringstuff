@@ -48,5 +48,5 @@ Question 7:
 What does inputStr(limit=3, default='hello') do if blank input is entered
 three times?
 
-Answer:The function will simply return 'hello'
+Answer:The function will simply return 'hello'.
 ```
